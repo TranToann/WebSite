@@ -1,5 +1,0 @@
-INDEX VERSION 1.131+C:\Users\toanb\Code_NhapMon\.metadata\.plugins\org.eclipse.jdt.core
-1154302286.index
-2327470078.index
-1865797976.index
-1491989634.index
